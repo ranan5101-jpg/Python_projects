@@ -1,2 +1,2 @@
-# Python_projects
+# Projects
 Test
